@@ -29,3 +29,7 @@ node app
 ### Screenshots
 ![deepak front final page cropped](https://user-images.githubusercontent.com/81742382/123956124-f3fb8b00-d9c7-11eb-918a-493af62691ec.png)
 ![deepak front second page cropped](https://user-images.githubusercontent.com/81742382/123956294-260ced00-d9c8-11eb-8f44-7dff7b158a69.png)
+![lavkush cropped  REGISTER FORM](https://user-images.githubusercontent.com/58044700/123961331-da5d4200-d9cd-11eb-9695-f2a3087dbad3.png)
+![lavkush login cropped from original](https://user-images.githubusercontent.com/58044700/123961441-fcef5b00-d9cd-11eb-8807-115a936bfe73.png)
+
+
